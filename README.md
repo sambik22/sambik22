@@ -66,11 +66,11 @@
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1](https://github.com/sambik22/Aicompanion-ibachotinko-/pull/1) in [sambik22/Aicompanion-ibachotinko-](https://github.com/sambik22/Aicompanion-ibachotinko-)
-2. 🎉 Merged PR [#3](https://github.com/sambik22/sambik22/pull/3) in [sambik22/sambik22](https://github.com/sambik22/sambik22)
-3. 💪 Opened PR [#3](https://github.com/sambik22/sambik22/pull/3) in [sambik22/sambik22](https://github.com/sambik22/sambik22)
-4. ℹ️ Assigned PR [#3](https://github.com/sambik22/sambik22/pull/3) in [sambik22/sambik22](https://github.com/sambik22/sambik22)
-5. 💪 Opened PR [#2](https://github.com/sambik22/sambik22/pull/2) in [sambik22/sambik22](https://github.com/sambik22/sambik22)
+1. 🎉 Merged PR [#1](https://github.com/sambik22/Aicompanion-ibachotinko-/pull/1) in [sambik22/Aicompanion-ibachotinko-](https://github.com/sambik22/Aicompanion-ibachotinko-)
+2. 🎉 Merged PR [#2](https://github.com/sambik22/sambik22/pull/2) in [sambik22/sambik22](https://github.com/sambik22/sambik22)
+3. 🎉 Merged PR [#2](https://github.com/sambik22/churn-prediction/pull/2) in [sambik22/churn-prediction](https://github.com/sambik22/churn-prediction)
+4. ℹ️ Assigned PR [#1](https://github.com/sambik22/Aicompanion-ibachotinko-/pull/1) in [sambik22/Aicompanion-ibachotinko-](https://github.com/sambik22/Aicompanion-ibachotinko-)
+5. 🎉 Merged PR [#3](https://github.com/sambik22/sambik22/pull/3) in [sambik22/sambik22](https://github.com/sambik22/sambik22)
 <!--END_SECTION:activity-->
 
 ## 🐍 Contribution snake
