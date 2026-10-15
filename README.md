@@ -23,7 +23,7 @@
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,fastapi,docker,kubernetes,terraform,githubactions,git,linux,vscode&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,fastapi,docker,kubernetes,terraform,githubactions,gradle,git,linux,vscode&theme=dark" alt="skills" />
 </p>
 
 <p>
@@ -40,7 +40,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <h3><a href="https://github.com/sambik22/churn-prediction">📉 Customer Churn Prediction</a></h3>
       End-to-end ML: from a raw CSV to a REST API in Docker. Predicts telecom customer churn,
       explains each prediction with SHAP and picks the decision threshold by expected profit.
@@ -48,12 +48,6 @@
       <b>ROC-AUC 0.843</b> · <b>+$16,300</b> business impact on the test set
       <br/><br/>
       <code>Python</code> <code>XGBoost</code> <code>LightGBM</code> <code>FastAPI</code> <code>Docker</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sambik22/Aicompanion-ibachotinko-">🧠 AI Companion (Minecraft)</a></h3>
-      A Minecraft Forge mod that adds an AI companion to the game.
-      <br/><br/>
-      <code>Java</code> <code>Minecraft Forge</code> <code>Gradle</code>
     </td>
   </tr>
 </table>
