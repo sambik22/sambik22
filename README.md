@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/sambik22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Machine+Learning+%E2%80%A2+Data+Science;Python+%E2%80%A2+FastAPI+%E2%80%A2+Docker;Java+%E2%80%A2+Minecraft+Forge+mods;Building+things+that+work+%F0%9F%9A%80" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Machine+Learning+%E2%80%A2+Data+Science;Python+%E2%80%A2+FastAPI+%E2%80%A2+Docker;DevOps+%E2%80%A2+CI%2FCD+%E2%80%A2+Terraform+%E2%80%A2+Kubernetes+%E2%80%A2+Go;Building+things+that+work+%F0%9F%9A%80" alt="typing" />
   </a>
 </p>
 
@@ -17,13 +17,13 @@
 
 - 🇺🇦 Developer from Ukraine
 - 🤖 Into machine learning: from raw data to a production model (REST API + Docker)
-- 🎮 Writing Minecraft mods in Java (Forge)
+- ⚙️ Doing DevOps: CI/CD pipelines, infrastructure as code with Terraform, Kubernetes, and tooling in Go
 - 🌱 Currently learning MLOps, model explainability (SHAP) and GitHub Actions
 
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,docker,githubactions,git,gradle,linux,vscode&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,go,fastapi,docker,kubernetes,terraform,githubactions,git,linux,vscode&theme=dark" alt="skills" />
 </p>
 
 <p>
