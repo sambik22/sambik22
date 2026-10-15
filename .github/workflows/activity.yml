@@ -2,7 +2,7 @@ name: Update recent activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # кожні 30 хвилин
+    - cron: "*/30 * * * *" # every 30 minutes
   workflow_dispatch:
 
 permissions:
@@ -17,5 +17,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "chore: оновлено останню активність"
+          COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 5
